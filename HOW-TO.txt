@@ -1,0 +1,7 @@
+1. Open cmd
+2. CD into directory with the file (or move the file into where your CMD is sitting)
+3. Type "python [name of the file with extension] [name of the project]
+4. Enter
+
+The script will produce a standard folder structure for the project
+with the current date prefixed at the beginning of the name.
