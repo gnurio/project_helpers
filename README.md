@@ -1,2 +1,4 @@
-# project_helpers
-Helpful scripts for projects
+# Project Helpers
+Helpful scripts for projects that I run at work.
+
+
